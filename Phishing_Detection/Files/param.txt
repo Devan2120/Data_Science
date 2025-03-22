@@ -1,0 +1,1 @@
+{"svm": {"C": 10, "gamma": "scale", "kernel": "rbf"}, "logistic_regression": {"C": 100.0, "penalty": "l2"}, "decision_tree": {"max_depth": 30, "min_samples_leaf": 5, "min_samples_split": 30}, "random_forest": {"max_depth": 25, "max_leaf_nodes": 450, "min_samples_split": 1}}
